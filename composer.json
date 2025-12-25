@@ -1,0 +1,17 @@
+{
+    "name": "pc/tp-phpunit-projet",
+    "autoload": {
+        "psr-4": {
+            "Pc\\TpPhpunitProjet\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "AFDIL HASNAA",
+            "email": "hasnaa.devv@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^12.5"
+    }
+}
